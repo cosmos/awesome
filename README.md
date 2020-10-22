@@ -195,27 +195,49 @@ These are modules or frameworks for virtual machines which run within the Cosmos
 - [Hypermint](https://github.com/datachainlab/hypermint) - WASM Smart Contract Tendermint chain
 
 ## Ecosystem
-
 [Projects](https://cosmonauts.world/) built using the Cosmos SDK
 
-- Agoric [Website](https://agoric.com/)
+
+### Blockchains In Production
 - Althea [Website](https://althea.net/)
 - Band Protocol [Website](https://bandprotocol.com/)
 - Binance Chain [Github](https://github.com/binance-chain/)
+- Cosmos Hub [Github](https://github.com/cosmos/gaia)
+- e-Money [Website](https://e-money.com/)
+
+- IRISnet [Website](https://www.irisnet.org/)
+
+
+
+
+
+
+
+
+
+### Blockchains In Testnet
+
+- Desmos [Website](https://desmos.network)
+
+
+
+
+
+
+
+
+### Blockchains In Development
+- Agoric [Website](https://agoric.com/)
 - Bitsong [Website](https://bitsong.io/)
 - Comdex [Website](https://comdex.sg/)
 - Commercio.network [Website](https://commercio.network)
-- Cosmos Hub [Github](https://github.com/cosmos/gaia)
 - Cyber [Website](https://cyber.page/)
 - Data Pace [Website](https://datapace.io/)
 - Decentral Card Network [Website](https://www.decentral-card.net/)
 - Decentrarandom [Website](https://decentrandom.com/)
-- Desmos [Website](https://desmos.network)
 - Dgaming [Website](https://hub.dgaming.com/)
 - Enigma [Website](https://enigma.co/)
-- e-Money [Website](https://e-money.com/)
 - Hashgard [Website](https://www.hashgard.io/)
-- IRISnet [Website](https://www.irisnet.org/)
 - IXO Foundation [Website](http://ixo.foundation/)
 - Kava [Website](https://kava.io/)
 - Kira Interchain Exchange [Website](https://kiraex.com/)
